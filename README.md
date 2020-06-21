@@ -1,3 +1,2 @@
 # SeumxFileDownloader
-File downloading application
-This app is under development
+File downloading application with file customization and rocket downloading speed.
